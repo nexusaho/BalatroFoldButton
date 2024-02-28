@@ -3,7 +3,6 @@
 --- MOD_ID: FoldButton
 --- MOD_AUTHOR: [happinyz]
 --- MOD_DESCRIPTION: Quickly forfeit your runs with the 'Fold' button!
-
 ----------------------------------------------
 ------------MOD CODE -------------------------
 
@@ -29,7 +28,8 @@ function create_UIBox_options()
       button = "fold_button",
       label = {
         "Fold"
-      }
+      },
+      colour = HEX('E82C20')
     })
     table.insert(contents.nodes[1].nodes[1].nodes[1].nodes, #contents.nodes[1].nodes[1].nodes[1].nodes + 1, fold_button)
   end
