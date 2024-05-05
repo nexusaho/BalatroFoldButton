@@ -1,18 +1,18 @@
-# Quickly forfeit your Balatro runs with the 'Fold' button!
+# ¡Abandona rápidamente las partidas en Balatro con el botón "Rendirse"!
 
 ![Balatro Fold Button Demo Gif](https://github.com/happinyz/BalatroFoldButton/assets/59787978/c1108119-b29e-454d-9c52-ee5195b807ef)
 
-Currently, Balatro does not have a way to easily concede a run. There is a "New Run" button, which allows the player to quickly leave an ongoing run and start a new run. However, this will not bring up the postgame stats screen, which many players enjoy and find very informative. This simple mod introduces a theme-appropriate "Fold" button. Pressing this button during a run will forfeit the run and bring up the postgame stats.
+Actualmente, Balatro no tiene una forma fácil de conceder una partida. Existe un botón de "Nueva Partida", que permite al jugador abandonar rápidamente una partida en curso y comenzar una nueva. Sin embargo, esto no mostrará la pantalla de estadísticas posteriores al juego, que muchos jugadores disfrutan y encuentran muy informativa. Este sencillo mod introduce un botón de "Rendirse". Al presionar este botón durante una partida, se abandonará la partida y se mostrarán las estadísticas posteriores al juego.
 
-# Upcoming Improvements
-- Confirmation window after pressing the Fold button.
-- Make the "Defeated By" section in the postgame stats screen reflect that the player had folded.
+# Próximas Mejoras
+- Ventana de confirmación después de presionar el botón de Rendirse.
+- Hacer que la sección "Derrotado Por" en la pantalla de estadísticas posteriores al juego refleje que el jugador se ha rendido.
 
-# Installations
-Follow the installation instructions for the Balatro [ModLoader](https://github.com/Steamopollys/Steamodded/tree/0.6.0) to install this mod.
+# Instalación
+Sigue las instrucciones para la instalación de mods en (https://github.com/Steamopollys/Steamodded/tree/0.6.0).
 
-# Contributions
-Contributions are more than welcome! Please open a pull request to contribute.
+# Contribuciones
+¡Las contribuciones son más que bienvenidas! Por favor, abre una solicitud de pull request para contribuir.
 
-# License
-This project is under the [MIT](https://choosealicense.com/licenses/mit/) license.
+# Licencia
+Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
