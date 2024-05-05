@@ -1,8 +1,8 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Fold Button
+--- MOD_NAME: Botón de Rendición
 --- MOD_ID: FoldButton
---- MOD_AUTHOR: [happinyz]
---- MOD_DESCRIPTION: Quickly forfeit your runs with the 'Fold' button!
+--- MOD_AUTHOR: [happinyz / NexusAho]
+--- MOD_DESCRIPTION: Añade el botón "Rendirse" al menú
 ----------------------------------------------
 ------------MOD CODE -------------------------
 
@@ -27,7 +27,7 @@ function create_UIBox_options()
       minw = 5,
       button = "fold_button",
       label = {
-        "Fold"
+        "Rendirse"
       },
       colour = HEX('E82C20')
     })
